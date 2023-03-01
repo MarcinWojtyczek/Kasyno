@@ -23,7 +23,7 @@ float hajs(){
         default : cout<<"\n\nWybrano zla opcje.\n\n\n";return 0.0; break;
     }
 }
-// Wybor jaka stawiasz stawke
+// Wybor jaka stawiasz stawke, testowy comment
 float postaw(float kasa,float stawka=0){
     cout << "\nTwoj budzet wynosi: " << kasa;
     while (stawka>kasa || stawka<=0){
