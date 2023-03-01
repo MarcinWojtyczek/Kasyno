@@ -1,0 +1,6 @@
+			!WAŻNE!
+Kod proszę odpalać na kompilatorze Code Blocks.
+Na Dev-C++ nie dziala funkcja stoi oraz funkcja to_string.
+
+Plik tekstowy (ranking.txt) można usunąc, po wyjściu z kasyna pierwszego gracza
+zostanie utworzony ranking a w nim zapisany bedzie ów gracz.
